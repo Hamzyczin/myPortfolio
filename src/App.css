@@ -1,0 +1,87 @@
+
+body {
+    background-color: plum;
+    color: #6b0e0e;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header, .about-section, .experience-section, .projects-section, .footer {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .header h1 {
+    font-size: 2.5em;
+    margin: 0.5em 0;
+  }
+
+  .myimg{
+    height: auto;
+    width: 50px;
+
+  }
+  
+  .contact-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #d40094;
+    color: #6b0e0e;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+  /* Example styling */
+.contact-info {
+    margin-top: 20px;
+    font-size: 1em;
+    color: #6b0e0e;
+  }
+  
+  .contact-info p {
+    margin: 5px 0;
+  }
+  
+  .contact-info a {
+    color: #6b0e0e;
+    text-decoration: none;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+  
+  
+  .social-icons {
+    margin-top: 15px;
+  }
+  
+  .social-icons a {
+    color: #6b0e0e;
+    margin: 0 10px;
+    font-size: 1.5em;
+    text-decoration: none;
+  }
+  
+  h2 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+
+  
+  
+  .project-item, .experience-item {
+    margin: 20px 0;
+  }
+  
+  .footer {
+    padding: 20px;
+    font-size: 0.9em;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+  

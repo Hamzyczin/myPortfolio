@@ -1,0 +1,43 @@
+/* Experience section styling */
+.experience {
+    margin: 40px 0;
+    padding: 20px;
+    background-color: plum;
+    border-radius: 8px;
+    color: #6b0e0e;
+  }
+  
+  .experience h2 {
+    font-size: 2em;
+    color: #6b0e0e;
+    margin-bottom: 20px;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .experience-item {
+    margin-bottom: 20px;
+  }
+  
+  .experience-item h3 {
+    font-size: 1.5em;
+    color: #6b0e0e;
+    margin-bottom: 5px;
+  }
+  
+  .experience-item p {
+    font-size: 1em;
+    color: #6b0e0e;
+  }
+  
+  .experience-item ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #6b0e0e;
+  }
+  
+  .experience-item ul li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+  }
+  
