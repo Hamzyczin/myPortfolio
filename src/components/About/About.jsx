@@ -21,11 +21,11 @@ const About = () => {
       <div className="tech-stack">
         <FaReact size={40} color="#61DBFB" />
         <FaNodeJs size={40} color="#68A063" />
-        <FaSass size={40} color="#CC6699" />
+        {/* <FaSass size={40} color="#CC6699" /> */}
         <FaGithub size={40} color="#181717" />
-        <SiTailwindcss size={40} color="#38B2AC" />
-        <FaBootstrap size={40} color="#563d7c" />
-        <SiRedux size={40} color="#764ABC" />
+        {/* <SiTailwindcss size={40} color="#38B2AC" /> */}
+        {/* <FaBootstrap size={40} color="#563d7c" /> */}
+        {/* <SiRedux size={40} color="#764ABC" /> */}
         <FaHtml5 size={40} color="#E34C26" />
         <FaCss3 size={40} color="#1572B6" />
         <FaJsSquare size={40} color="#F7DF1E" />
