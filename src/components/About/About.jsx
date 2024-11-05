@@ -7,7 +7,7 @@ const About = () => {
         <div> <section id="about" className="about-section">
         <h2>About Me</h2>
         <p>
-    I'm Jinad Halimat Abiodun, a software developer with a keen interest in crafting innovative and efficient digital solutions. With a strong foundation in web development, front-end design, and an evolving expertise in AI, I am dedicated to transforming complex problems into seamless, user-centered applications. My hands-on experience in front-end frameworks, particularly React and Vite, has equipped me to build responsive and interactive web applications that enhance user experiences.
+    I am Jinad Halimat Abiodun, a software developer with a keen interest in crafting innovative and efficient digital solutions. With a strong foundation in web development, front-end design, and an evolving expertise in AI, I am dedicated to transforming complex problems into seamless, user-centered applications. My hands-on experience in front-end frameworks, particularly React and Vite, has equipped me to build responsive and interactive web applications that enhance user experiences.
   </p>
   <p>
     Throughout my journey, I've developed a robust skill set encompassing not only technical proficiency but also essential soft skills such as project management, adaptability, and teamwork. I thrive in collaborative environments and am always eager to learn and adapt to new technologies. Currently, I am advancing my skills through immersive learning experiences, including my role as a Software Developer Intern and my coursework in virtual assistance and project management.

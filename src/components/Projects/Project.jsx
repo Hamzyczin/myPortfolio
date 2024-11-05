@@ -23,7 +23,7 @@ const Projects = () => {
     {
       id: 3,
       name: "An E-commerce Product Page for Desserts",
-      description: "Dessert Delight is a specialized e-commerce product page designed for dessert lovers. This project provides an enticing browsing experience, showcasing a range of delectable dessert items with high-quality images, detailed descriptions, and pricing information. The product page allows users to seamlessly add items to their cart, view item specifics, and proceed to checkout. Built with an emphasis on responsive design, Dessert Delight offers a smooth user experience across devices, making it easy for customers to indulge in their favorite sweets online.",
+      description: "Dessert Delight  product page is a specialized e-commerce product page designed for dessert lovers. This project provides an enticing browsing experience, showcasing a range of delectable dessert items with high-quality images, detailed descriptions, and pricing information. The product page allows users to seamlessly add items to their cart, view item specifics, and proceed to checkout. Built with an emphasis on responsive design, Dessert Delight offers a smooth user experience across devices, making it easy for customers to indulge in their favorite sweets online.",
       url: "https://hamzyczin.github.io/cartShopping/",
       image: cart
     }
