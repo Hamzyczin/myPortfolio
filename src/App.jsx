@@ -6,6 +6,8 @@ import Exp from './components/Experience/Exp'
 import Footer from './static/Footer/Footer'
 import Project from './components/Projects/Project'
 import Header from './static/Header/Header'
+import Form from "./components/Forms/Form"
+import Contact from './static/Contact/Contact'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -18,6 +20,8 @@ function App() {
         <About/>
         <Exp/>
         <Project/>
+        <Contact/>
+        <Form/>
         <Footer/>
       </div>
        

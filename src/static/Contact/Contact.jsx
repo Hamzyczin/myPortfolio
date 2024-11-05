@@ -1,24 +1,19 @@
 import React from 'react';
 import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
-import myImage from "../../assets/myProfPic.jpg";
-import './Header.css';
+import './Contact.css';
 
-const Header = () => {
+const Contact = () => {
   return (
-    <div className="header">
-      <div className="header-content">
-        
-        <div className="myimg">
-          <img src={myImage} alt="Jinad Halimat Abiodun" />
-        </div>
-
-        <div className="header-info">
-          <h1>Jinad Halimat Abiodun</h1>
-          <p>A Front-end developer Passionate about crafting innovative solutions through code  <br/> and accessible user friendly web application. 💻</p>
-          <a href="#contact" className="contact-button">Contact me </a>
-
-          
-          <div className="contact-info">
+    <section id="contact">
+      <h3>For more information about me</h3>
+      <p>You can download my CV below:</p>
+      
+      <div className="cv-download">
+        <a href="/Halimat_Jinad_CV.pdf" download>
+          Download My CV
+        </a>
+      </div>
+      <div className="contact-info">
             <p>Phone: +2348106363910</p>
             <p>Email: <a href="mailto:halimatabiodunjinad@gmail.com">halimatabiodunjinad@gmail.com</a></p>
           </div>
@@ -35,10 +30,9 @@ const Header = () => {
               <FaTwitter />
             </a>
           </div>
-        </div>
-      </div>
-    </div>
+      
+    </section>
   );
 };
 
-export default Header;
+export default Contact;

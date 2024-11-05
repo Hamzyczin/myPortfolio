@@ -1,40 +1,53 @@
-/* .projects-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-  }
-  
-  .project-card {
-    border: 1px solid gray;
-    padding: 15px;
-    border-radius: 8px;
-    text-align: center;
-    max-width: 300px;
-  }
-  
-  .project-image {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-    margin-bottom: 10px;
-  }
-  
-  .project-card h3 {
-    font-size: 1.2em;
-    margin-bottom: 5px;
-  }
-  
-  .project-card p {
-    font-size: 0.9em;
-    margin-bottom: 10px;
-  }
-  
-  .project-card a {
-    color:#6b0e0e;
-    text-decoration: none;
-  }
-  
-  .project-card a:hover {
-    text-decoration: underline;
-  }
-   */
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.project-card {
+  border: 1px solid #6b0e0e;
+  padding: 15px;
+  border-radius: 8px;
+  text-align: center;
+  width: 100%;
+  max-width: 300px;
+  background-color: white;
+}
+.project{
+  font-size: 2em;
+  color: #6b0e0e;
+  margin-bottom: 20px;
+  padding: 40px;
+  text-align: center
+}
+
+.project-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.project h3 {
+  font-size: 1.2em;
+  margin-bottom: 5px;
+}
+
+.project p {
+  font-size: 0.9em;
+  margin-bottom: 10px;
+}
+
+.project a {
+  color: #6b0e0e;
+  text-decoration: none;
+}
+.git{
+  background-color: white;
+  color: #6b0e0e;
+}
+
+.project a:hover {
+  text-decoration: underline;
+}

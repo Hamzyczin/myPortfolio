@@ -4,13 +4,13 @@
     justify-content: space-between;
     align-items: center;
     padding: 1em 2em;
-    background-color: black;
+    background-color: white;
     position: sticky;
     top: 0;
     z-index: 1000;
   }
   
-  /* Align the logo on the left side */
+  
   .navbar-logo a {
     color: #6b0e0e;
     font-size: 1.5em;
@@ -18,12 +18,12 @@
     font-weight: bold;
   }
   
-  /* Align the links to the right */
+  
   .navbar-links {
     list-style: none;
     display: flex;
     gap: 1.5em;
-    margin-left: auto; /* This pushes the links to the far right */
+    margin-left: auto; 
   }
   
   .navbar-links li a {
@@ -33,10 +33,10 @@
   }
   
   .navbar-links li a:hover {
-    color: gold;
+    color: red;
   }
   
-  /* Hide links on smaller screens (optional) */
+ 
   @media (max-width: 768px) {
     .navbar-links {
       display: none;
